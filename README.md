@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am a student of Computer Science and Econometrics at the University of Gdańsk, with a strong interest in data analysis :)
 
 <!--
 **mpisak/mpisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
